@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(188, 220, 224);
+}
+
+#logo{
+    margin-top: 30px;
+    height: 100px;
+    width: 170px;
+}
+
+.btn{
+    background-color: #1DD2FF;
+    border: none;
+    color: black;
+}
+
+#Principal{
+    background-color: antiquewhite;
+    font-size: 22px;
+    color: #3A3636;
+}
+
+#imgGif{
+    height: 400px;
+    width: 350px;
+    border: none;
+    border-radius: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#colC2{
+    text-align:left;
+}
+
+.img-fluid{
+    text-align: left;
+    border: none;
+}
+
+#footer{
+    background-color: antiquewhite;
+}

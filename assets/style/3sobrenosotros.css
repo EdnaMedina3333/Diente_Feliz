@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(188, 220, 224);
+}
+
+#logo{
+    margin-top: 30px;
+    height: 100px;
+    width: 170px;
+}
+
+/*Botones*/
+.btn{
+    background-color: #1DD2FF;
+    border: none;
+    color: black;
+}
+
+#NuestraHistoria{
+    text-align: left;
+}
+
+#MisionVisionValores{
+    text-align: left;
+}
+
+#Especialistas{
+    text-align: left;
+}
+
+/*Párrafo Fila D*/
+#parrafo{
+    text-align:justify;
+}
+
+.list{
+    text-align: left;
+}
+
+/*Título Fila B*/
+#titulo{
+    text-align: center;
+}
+
+
+.card-text{
+    text-align: left;
+}
+
+#footer{
+    background-color: antiquewhite;
+}
